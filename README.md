@@ -95,25 +95,6 @@ hms/
 
 ---
 
-## 👥 Collaboration
-
-Steps to contribute:
-
-1. Fork the repository
-2. Clone:
-
-   ```
-   git clone https://github.com/your-username/Hospital-Management-System.git
-   ```
-3. Create a branch:
-
-   ```
-   git checkout -b feature-name
-   ```
-4. Commit & push changes
-
----
-
 ## 📌 Future Improvements
 
 * Online Payment Integration
